@@ -1,6 +1,8 @@
 # Statistics for Exploring the Universe
 
-A beginner-friendly statistics course taught through astronomy examples.
+A beginner-friendly statistics course taught through astronomy examples, with
+many worked examples in Python so you can also learn how to use Python for
+statistical thinking and data analysis.
 
 The central idea of the course is simple: **we use statistics because
 astronomical observations are incomplete, noisy, variable, and uncertain, and we
